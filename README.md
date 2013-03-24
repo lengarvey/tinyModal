@@ -6,8 +6,8 @@ Open the modal:
 $('#your-modal').tinyModal();
 ```
 
-You can style the overlay that grey's out the background as follows. So
-put the following into your CSS file somewhere
+You can style the overlay that greys out the background as follows. So
+put this rule into your CSS somewhere:
 
 ```css
 #tiny_overlay {
@@ -24,4 +24,4 @@ put the following into your CSS file somewhere
 
 it's that easy.
 
-Slightly based on: https://github.com/FinelySliced/leanModal.js
+Based on: https://github.com/FinelySliced/leanModal.js
